@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 * 🐙 [GitHub](https://github.com/Jaydeep806/)
 * 🔗 [LinkedIn](https://www.linkedin.com/in/jaydeep806/)
 * 📧 [Email](mailto:KumarJaydeep806@gmail.com)
-* 💻 [LeetCode(https://leetcode.com/u/Jaydeep_kumar/)]
+* 💻 [LeetCode](https://leetcode.com/u/Jaydeep_kumar/)
 
 ---
 
